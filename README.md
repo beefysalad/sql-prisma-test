@@ -1,6 +1,6 @@
 # sql-prisma-test
 
-##Currently Exploring
+## Currently Exploring
 - MySQL
 - Prisma
 
